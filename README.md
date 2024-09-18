@@ -83,6 +83,9 @@ This will launch the Streamlit app where you can input customer data and receive
 
 Once the app is running, enter the customer details (such as geography, age, credit score, etc.), and the app will display the probability of churn. If the probability exceeds 0.5, the customer is likely to churn.
 
+## Screenshot
+
+<img width="600" alt="ANN_WEB_APP_SCREENSHOT" src="https://github.com/user-attachments/assets/cf720d49-ced3-4f52-9ba8-c638cd826b74">
 
 ## Issues and Contributions
 
